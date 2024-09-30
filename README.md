@@ -2,6 +2,8 @@
 
 Docker with Apache, MySQL 8.0, PHPMyAdmin and PHP.
 
+Database user: admin, password: admin, root password: admin
+
 I use docker-compose as an orchestrator. To run these containers:
 
 - `docker-compose up -d`
